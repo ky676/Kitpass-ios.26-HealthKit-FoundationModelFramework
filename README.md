@@ -4,4 +4,6 @@ KitPass is a privacy-first iOS application. Built with SwiftUI and integrated wi
 The Repo is coming soon....., contact zy3398@nyu.edu for a early demo version.
 
 
-![Image](https://github.com/user-attachments/assets/09f7be0e-8147-460c-9ac2-1ea2c83f996c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/09f7be0e-8147-460c-9ac2-1ea2c83f996c" alt="Description" width="300"/>
+</p>
