@@ -7,3 +7,13 @@ The Repo is coming soon....., contact zy3398@nyu.edu for a early demo version.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/09f7be0e-8147-460c-9ac2-1ea2c83f996c" alt="Description" width="300"/>
 </p>
+
+
+<p align="center">
+  All rights reserved © KitPass
+</p>
+
+
+
+
+
